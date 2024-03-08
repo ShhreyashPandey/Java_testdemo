@@ -1,3 +1,7 @@
+//Shhreyash Pandey
+//22070126105\
+//AIML-B2
+
 public class Main {
     public static void main(String[] args) {
         RedHeadDuck redHeadDuck = new RedHeadDuck();
